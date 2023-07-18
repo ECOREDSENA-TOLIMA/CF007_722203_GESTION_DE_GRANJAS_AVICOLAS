@@ -1,19 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Producción aves, carne, huevo y bienestar animal',
+    descripcionCurso:
+      'En la avicultura es de gran importancia conocer sobre las actividades que conciernen a nutrición y sanidad en el proceso productivo, en temas que van desde las líneas genéticas, especificaciones del galpón, elementos dentro del mismo alimentación y conversión, entre otros; esto con el fin de que se comprenda las diversas etapas productivas implícitas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
