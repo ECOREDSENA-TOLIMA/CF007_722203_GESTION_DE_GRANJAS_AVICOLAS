@@ -8,7 +8,7 @@
       h1 Seguridad y salud en el trabajo
 
     .cajon.color-acento-contenido.p-4.d-flex.flex-wrap.mb-5(data-aos="fade-right")
-      .col-md-11.ps-lg-4
+      .col-md-12.ps-lg-4
         p Esta es una actividad multidisciplinaria que, a través de la promoción y prevención, busca mejorar el bienestar de los trabajadores y evitar los accidentes en el ambiente laboral. A continuación, se puede observar una infografía relacionada con el tema.
       
     AcordionA.mb-5.bgr_7(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

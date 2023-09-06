@@ -11,13 +11,13 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Máquinas, equipos y utensilios.
-        p.mb-4 #[b Objetivo:] Aplicar los conocimientos adquiridos en el componente formativo Producción aves, carne, huevo y bienestar animal.
+        p.mb-4 #[b Objetivo:] aplicar los conocimientos adquiridos en el componente formativo Producción aves, carne, huevo y bienestar animal.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Opción múltiple
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades_CF007/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 

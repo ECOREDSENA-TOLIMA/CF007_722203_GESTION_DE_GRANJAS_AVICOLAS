@@ -67,24 +67,8 @@ export default {
           },
           {
             numero: '2.5',
-            titulo: 'Comportamiento animal y parámetros etológico',
+            titulo: 'Comportamiento animal y parámetros etológicos',
             hash: 't_2_5',
-          },
-          {
-            numero: '2.5.1',
-            titulo:
-              '<em>Sistema de pastoreo o sistema integral autosuficiente.</em>',
-            hash: 't_2_5_1',
-          },
-          {
-            numero: '2.5.2',
-            titulo: '<em>Sistema de confinamiento o intensivo.</em>',
-            hash: 't_2_5_2',
-          },
-          {
-            numero: '2.5.3',
-            titulo: '<em>Sistema semi-intensivo.</em>',
-            hash: 't_2_5_3',
           },
         ],
       },
@@ -162,29 +146,9 @@ export default {
             hash: 't_5_4',
           },
           {
-            numero: '5.4.1',
-            titulo: 'Área',
-            hash: 't_5_4_1',
-          },
-          {
-            numero: '5.4.2',
-            titulo: 'Ancho, largo y alto',
-            hash: 't_5_4_2',
-          },
-          {
             numero: '5.5',
             titulo: 'Techos',
             hash: 't_5_5',
-          },
-          {
-            numero: '5.5.1',
-            titulo: 'Clases de techos',
-            hash: 't_5_5_1',
-          },
-          {
-            numero: '5.5.2',
-            titulo: 'Materiales de construcción techos',
-            hash: 't_5_5_2',
           },
           {
             numero: '5.6',
@@ -195,6 +159,46 @@ export default {
             numero: '5.7',
             titulo: 'Pisos',
             hash: 't_5_7',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Máquinas, equipos y utensilios',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Variables ambientales',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Temperatura',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Humedad',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
+            titulo: 'Ventilación',
+            hash: 't_7_3',
+          },
+          {
+            numero: '7.4',
+            titulo: 'Iluminación',
+            hash: 't_7_4',
+          },
+          {
+            numero: '7.5',
+            titulo:
+              'Técnicas de monitoreo y equipos de medición variables ambientales',
+            hash: 't_7_5',
           },
         ],
       },
@@ -241,40 +245,40 @@ export default {
   },
   complementario: [
     {
+      tema: '3. Aspectos importantes en anatomía y fisiología de las aves',
+      referencia: 'Estrada M. (2011). Anatomía y fisiología aviar.',
+      tipo: 'Documento de apoyo',
+      link: 'http://docplayer.es/27496444-Anatomia-y-fisiologia-aviar.html',
+    },
+    {
+      tema: '3. Aspectos importantes en anatomía y fisiología de las aves',
+      referencia:
+        'J. (s. f.). Gallina Castellana Negra: Anatomía De La Gallina. Gallina Castellana Negra.',
+      tipo: 'Blog',
+      link: 'https://www.tri-tro.com/anatomia-de-la-gallina',
+    },
+    {
       tema:
-        'Contexto, tipo y características de los alojamientos para los diferentes sistemas productivos de las aves.',
+        '5. Contexto, tipo y características de los alojamientos para los diferentes sistemas productivos de las aves.',
       referencia:
         'Barroeta, A. Izquierdo, D. y Pérez, J. (s. f.). <em>Manual de avicultura.</em> Universidad Autónoma de Barcelona.',
       tipo: 'Documento de apoyo',
       link: 'http://docplayer.es/1772576-Manual-de-avicultura.html',
     },
     {
-      tema: 'Aspectos importantes en anatomía y fisiología de las aves.',
-      referencia: 'Estrada M. (2011). <em>Anatomía y fisiología aviar.</em>',
-      tipo: 'Documento de apoyo',
-      descarga: 'http://docplayer.es/27496444-Anatomia-y-fisiologia-aviar.html',
-    },
-    {
-      tema: 'Aspectos importantes en anatomía y fisiología de las aves',
-      referencia:
-        'J. (s. f.). <em>Gallina Castellana Negra: Anatomía De La Gallina.</em> Gallina Castellana Negra',
-      tipo: 'Blog',
-      descarga: 'https://www.tri-tro.com/anatomia-de-la-gallina',
-    },
-    {
-      tema: 'Máquinas, equipos y utensilios',
-      referencia:
-        'Pronavícola S.A. (2015, 27 marzo). <em>Grading</em> [Video]. YouTube.',
-      tipo: 'Video',
-      descarga: 'https://youtu.be/HKbTdUeGZ4Q',
-    },
-    {
       tema:
-        'Contexto, tipo y características de los alojamientos para los diferentes sistemas productivos de las aves',
+        '5. Contexto, tipo y características de los alojamientos para los diferentes sistemas productivos de las aves.',
       referencia:
-        'La Finca de Hoy. (2017, 5 mayo). <em>Ventajas y desventajas de los sistemas de producción avícola</em> [Video]. YouTube.',
+        'La Finca de Hoy. (2017, 5 mayo). Ventajas y desventajas de los sistemas de producción avícola [Video]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://youtu.be/gOVjA9hnzWA',
+      link: 'https://youtu.be/gOVjA9hnzWA',
+    },
+    {
+      tema: '6. Máquinas, equipos y utensilios',
+      referencia:
+        'Pronavícola S.A. (2015, 27 marzo). Grading [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/HKbTdUeGZ4Q',
     },
   ],
   glosario: [
@@ -452,40 +456,42 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Rocío Sánchez Ruiz',
-          cargo: 'Experto Temático',
-          centro: 'Centro de Electricidad, Electrónica y Telecomunicaciones',
+          nombre: 'Paola Mercedes Orduz Gómez',
+          cargo: 'Experta Temática',
+          centro:
+            'Regional Santander - Centro de Atención al Sector Agropecuario',
         },
         {
-          nombre: 'Miroslava González H.',
-          cargo: 'Diseñador y Evaluador Instruccional',
-          centro: 'Centro de Gestión Industrial',
+          nombre: 'Giovanna Andrea Escobar Ospina',
+          cargo: 'Diseñadora Instruccional',
+          centro:
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios (CIES)',
         },
         {
-          nombre: 'Juan Gilberto Giraldo Cortés',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Centro de Gestión Industrial',
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Álix Cecilia Chinchilla Rueda',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Viviana Esperanza Herrera Quiñones',
-          cargo: 'Asesora Metodológica',
-          centro: 'Centro de Comercio y Servicios',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano',
-          cargo: 'Asesor Pedagógico',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Darío González',
-          cargo: 'Revisión y Corrección de Estilo',
-          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortés',
+          cargo: 'Diseñador instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Herrera Quiñonez',
+          cargo: 'Metodóloga',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -493,7 +499,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'José Jaime Luis Tang',
+          nombre: 'Aruzidna Sánchez Alonso',
           cargo: 'Diseñador Web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
@@ -509,11 +515,16 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Animador y Producción Audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Sebastián Trujillo Afanador',
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },

@@ -1,5 +1,5 @@
 <template lang="pug">
-.curso-main-container.pb-3
+.curso-main-container.pb-3.tema4
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
@@ -7,13 +7,10 @@
         span 4
       h1 Contexto, características y tipos comerciales de aves
 
-    .row.mb-5
-      .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
-        figure
-          img(src='@/assets/curso/temas/tema4/img-25.png', alt='Texto que describa la imagen')
-      .col-12.col-md-7(data-aos="fade-left")
-        p En la mayor parte de los países en desarrollo, existen paralelamente dos tipos de aves de corral con las que se produce, la primera es la de genotipos comerciales, gallinas ponedoras o pollos de engorde; la segunda es la que está basada en la doble funcionalidad, aunque bajo rendimiento, de las razas autóctonas. Las proporciones de estas dos categorías varían mucho según los países, pero en los países de bajos ingresos, las razas autóctonas pueden representar hasta un 90 por ciento de la población de aves de corral (Glatz, 2013).  La diferencia principalmente entre los dos tipos de producción radica en la gestión y el rendimiento que en el primer caso supera por mucho al segundo.
-        p.mb-5 Las aves con genéticas comerciales se producen en sistemas intensivos o de confinamiento, en parvadas que pueden ir de las 1000 a las 10.000 aves, cuyas instalaciones suelen estar ubicadas cerca al sector urbano. Las aves con genética autóctona o criollas, por su lado, se producen en hogares rurales y en menor proporción en periurbanos, en parvadas de 10 a 50 aves que se alimentan con sobras de los hogares, maíz, forrajes.  En estas producciones de tipo familiar, suelen ser las mujeres y niños los encargados de las labores de gestión.
+    .col-xl-12.mx-auto.mb-5
+      img.d-md-block(src="@/assets/curso/temas/tema4/cuadro.svg" data-aos="fade-left")
+
+    Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 4.1 Tipos de líneas comerciales de aves
@@ -55,7 +52,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 2.
+        h5 Figura 8.
         span <em>Clasificación de aves de corral de acuerdo con su peso</em>
       img.d-md-block(src="@/assets/curso/temas/tema4/img-28.svg" data-aos="fade-left")
 
@@ -69,161 +66,161 @@
     p.mb-5(data-aos="fade-right") A continuación, se pueden observar algunas de las razas más populares y representativas.
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-1.png' alt='AvatarTop')
         h2.text-center LOHMANN LSL (Blanca)
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● Originaria de Alemania.
+              i.fas.fa-circle
+              | Originaria de Alemania.
             li 
-              .lista-ol
-              p ● Tiene un enorme potencial genético, a través de altos picos de postura y persistencia.
-            
-      .tarjeta.color-acento-botones.p-4
+              i.fas.fa-circle
+              | Tiene un enorme potencial genético, a través de altos picos de postura y persistencia.
+         
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-2.png' alt='AvatarTop')
         h2.text-center LOHMANN BROWN
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● Originaria de Alemania.
+              i.fas.fa-circle
+              | Originaria de Alemania.
             li 
-              .lista-ol
-              p ● Su plumaje es de color castaño.
+              i.fas.fa-circle
+              | Su plumaje es de color castaño.
             li 
-              .lista-ol
-              p ● Buen nivel de postura.
+              i.fas.fa-circle
+              | Buen nivel de postura.
             li 
-              .lista-ol
-              p ● Color de la cáscara del huevo, marrón.
+              i.fas.fa-circle
+              | Color de la cáscara del huevo, marrón.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-3.png' alt='AvatarTop')
         h2.text-center LEGHORN
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● Es de origen italiano.
+              i.fas.fa-circle
+              | Es de origen italiano.
             li 
-              .lista-ol
-              p ● Plumaje blanco y cola abierta en abanico.
+              i.fas.fa-circle
+              | Plumaje blanco y cola abierta en abanico. 
             li 
-              .lista-ol
-              p ● Cresta: de 4 a 5 escotadura.
+              i.fas.fa-circle
+              | Cresta: de 4 a 5 escotadura.
             li 
-              .lista-ol
-              p ● Machos (cresta erecta).
+              i.fas.fa-circle
+              | Machos (cresta erecta).
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-4.png' alt='AvatarTop')
         h2.text-center ISA BROWN
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● Es una gallina ligera y ponedora de huevos blancos.
+              i.fas.fa-circle
+              | Es una gallina ligera y ponedora de huevos blancos.
             li 
-              .lista-ol
-              p ● Con alta adaptabilidad.
+              i.fas.fa-circle
+              | Con alta adaptabilidad.
             li 
-              .lista-ol
-              p ● Edad al 50 % de puesta, 144 días.
+              i.fas.fa-circle
+              | Edad al 50 % de puesta, 144 días.
             li 
-              .lista-ol
-              p ● Los huevos que pone son de 65 gramos.
+              i.fas.fa-circle
+              | Los huevos que pone son de 65 gramos.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-5.png' alt='AvatarTop')
         h2.text-center HY-LINE
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● Huevos ave-alojada a 100 semanas, 453-467.
+              i.fas.fa-circle
+              | Huevos ave-alojada a 100 semanas, 453-467.
             li 
-              .lista-ol
-              p ● Promedio de consumo de alimento diario (18-100 semanas), 105-112 g/día por ave.
+              i.fas.fa-circle
+              | Promedio de consumo de alimento diario (18-100 semanas), 105-112 g/día por ave.
             li 
-              .lista-ol
-              p ● Plumaje de color castaño.
+              i.fas.fa-circle
+              | Plumaje de color castaño.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-6.png' alt='AvatarTop')
         h2.text-center RHODE ISLAND
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● Originaria de Estados Unidos.
+              i.fas.fa-circle
+              | Originaria de Estados Unidos.
             li 
-              .lista-ol
-              p ● Variedad roja es la más distribuida en el país.
+              i.fas.fa-circle
+              | Variedad roja es la más distribuida en el país.
             li 
-              .lista-ol
-              p ● Plumaje castaño brillante y cola tono más oscuro.
+              i.fas.fa-circle
+              | Plumaje castaño brillante y cola tono más oscuro.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-7.png' alt='AvatarTop')
         h2.text-center ROSS
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● La Ross es una de las variedades más populares.
+              i.fas.fa-circle
+              | La Ross es una de las variedades más populares.
             li 
-              .lista-ol
-              p ● Es una de las reproductoras más competitivas.
+              i.fas.fa-circle
+              | Es una de las reproductoras más competitivas.
             li 
-              .lista-ol
-              p ● Crece rápidamente con el mínimo consumo de alimento.
+              i.fas.fa-circle
+              | Crece rápidamente con el mínimo consumo de alimento.
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-8.png' alt='AvatarTop')
         h2.text-center COBB
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● Cobb es una línea muy precoz, que adquiere un gran peso en forma rápida, por lo que permite un sacrificio a muy temprana edad.
+              i.fas.fa-circle
+              | Cobb es una línea muy precoz, que adquiere un gran peso en forma rápida, por lo que permite un sacrificio a muy temprana edad.
             li 
-              .lista-ol
-              p ● Es muy voraz.
+              i.fas.fa-circle
+              | Es muy voraz.
     
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.color-acento-botones2.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema4/punto-blanco.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema4/img-9.png' alt='AvatarTop')
         h2.text-center ARBOR ACRESS
         .col-xl-10.mx-auto
-          ol.lista-ol.mb-5
+          ul.lista-ul
             li 
-              .lista-ol
-              p ● Crecen y ganan peso con gran rapidez.
+              i.fas.fa-circle
+              | Crecen y ganan peso con gran rapidez.
             li 
-              .lista-ol
-              p ● Poseen un buen emplume.
+              i.fas.fa-circle
+              | Poseen un buen emplume. 
             li 
-              .lista-ol
-              p ● Son fuertemente resistentes a las enfermedades.
+              i.fas.fa-circle
+              | Son fuertemente resistentes a las enfermedades.
   
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 4.2 Manuales de manejo de líneas genéticas
@@ -243,87 +240,96 @@
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
         p Según cifras ofrecidas por el Ministerio de Agricultura y Desarrollo Rural, en el año 2020, la producción avícola en Colombia participa con el 36.5% del PIB pecuario, el 14.3% del agropecuario y el 0.7 del PIB nacional, y es considerada la industria con mayor proyección y dinamismo como empresa. Es por esto que llevar un registro adecuado y consignar correctamente los datos de la producción en granja es de vital importancia.
         p Como bien se sabe, los registros existen para medir los parámetros productivos y estos tienen una relevancia crucial en toda explotación pecuaria, ya que ellos son los que permiten tomar decisiones y hacer que el sistema de producción sea más eficiente. Luego, los registros deben ser confiables y oportunos, pero, además, deben llevar un orden, para facilitar su comprensión y posterior análisis. Los datos pueden ser llevados en plantillas especialmente diseñadas o personalizadas por cada empresa, libros de campo o cuadernos.
-        p Los parámetros de una producción se calculan con base en los datos del comportamiento productivo, por ejemplo, la cantidad de huevo, el peso corporal, los huevos producidos por ave, el porcentaje de producción, el porcentaje de mortalidad, la conversión alimenticia, entre otros. Para el caso de las gallinas, se calculan desde uno o varios lotes de gallinas de la misma estirpe o línea genética. La información obtenida refleja el desarrollo del potencial genético del ave con relación a su línea, edad y sexo. (Itza y Ciro, 2020).
-      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema4/punto-blanco.svg" data-aos="fade-right")
+        .cajon.color-primario.p-4.d-flex.flex-wrap(style="background-color: #FFE8CE")
+          .col-md-12.ps-lg-4  
+            p Los parámetros de una producción se calculan con base en los datos del comportamiento productivo, por ejemplo, la cantidad de huevo, el peso corporal, los huevos producidos por ave, el porcentaje de producción, el porcentaje de mortalidad, la conversión alimenticia, entre otros. Para el caso de las gallinas, se calculan desde uno o varios lotes de gallinas de la misma estirpe o línea genética. La información obtenida refleja el desarrollo del potencial genético del ave con relación a su línea, edad y sexo. (Itza y Ciro, 2020).
+      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema4/img-30-1.png" data-aos="fade-right")
 
     p.mb-5(data-aos="fade-right") Los parámetros de producción tienen como objetivo presentar el panorama general del desempeño productivo de las aves, y se pueden clasificar en tres importantes partes:
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
-        img.mb-4.mb-md-0.mx-auto(src="@/assets/curso/temas/tema4/decorador-3.svg" data-aos="fade-right" style="max-width: 100px")
+        img.mb-4.mb-md-0.mx-auto(src="@/assets/curso/temas/tema4/decorador-3.svg" style="max-width: 100px")
       .col-xl-10.mx-auto
-        ol.lista-ol
+        ul.lista-ul
           li 
-            .lista-ol
-            p ● <strong>Relacionados con el desarrollo corporal del ave:</strong> peso corporal, uniformidad, longitud del tarso, longitud del pico.
+            i.fas.fa-circle
+            | <strong>Relacionados con el desarrollo corporal del ave:</strong>  peso corporal, uniformidad, longitud del tarso y longitud del pico. 
           li 
-            .lista-ol
-            p ● <strong>Relacionados con la producción:</strong> mortalidad, consumo de alimento, conversión alimenticia, postura, peso de huevo, masa de huevo, número de huevos por ave, entre otros.
+            i.fas.fa-circle
+            | <strong>Relacionados con la producción:</strong> mortalidad, consumo de alimento, conversión alimenticia, postura, peso de huevo, masa de huevo, número de huevos por ave, entre otros.
           li 
-            .lista-ol
-            p ● <strong>Relacionados con el producto final:</strong> clasificación del huevo, número total de cajas producidas (cada caja contiene 360 piezas de huevo), mermas (rotos o picados), pigmentación del pollo, alimento almacenado en silo, inventario de empaques (cajas de cartón, divisiones, separadores de huevo), entre otros.
+            i.fas.fa-circle
+            | <strong>Relacionados con el producto final:</strong> clasificación del huevo, número total de cajas producidas (cada caja contiene 360 piezas de huevo), mermas (rotos o picados), pigmentación del pollo, alimento almacenado en silo, inventario de empaques (cajas de cartón, divisiones, separadores de huevo), entre otros.
 
     p.mb-5(data-aos="fade-right") En el manual de guía de manejo de cada línea genética, se encuentran reportados los objetivos de producción, empero estos pueden establecerse con anterioridad por las metas o expectativas específicas de cada institución. Por ejemplo, en las guías de manejo de la crianza de las pollitas, en las tablas de objetivos, no se aprecia la mortalidad, uniformidad, conversión día o semanal. Existen dos tipos de formatos para registrar los datos de producción: impresos y electrónicos (Itza y Ciro, 2020).
+
+    .col-xl-10.mx-auto.mb-4 
+      img.d-md-block(src="@/assets/curso/temas/tema4/imagen_a.svg" data-aos="fade-left")
 
     .col-xl-10.mx-auto
       .row
         .cajon-b.color-acento-contenido.p-3.mb-4(data-aos="fade-right")
-          p <strong>a) Registros impresos:</strong> son los más utilizados en las granjas ya que son de fácil elaboración, almacenamiento y consulta. Estos llevan número consecutivo de folio, para permitir una consulta e identificación más rápida (Itza y Ciro, 2020).
-          p <strong>b) Registros electrónicos:</strong> son los más completos, porque al capturar la variable datos del comportamiento productivo, calculan automáticamente los parámetros productivos de interés. No obstante, presentan el inconveniente de que necesitan un medio electrónico, como un computador o una tableta, a las que algunas veces no se tiene fácil acceso (Itza y Ciro, 2020).
           p Los resultados obtenidos en las poblaciones de aves en crecimiento o en producción son referencias que facilitan proyectar la producción y comparar los resultados con otras unidades productivas, de acuerdo con la fase fisiológica, el crecimiento, la línea productiva, el canal o el huevo (Itza y Ciro, 2020).
           p Diversas empresas de distribución de líneas o razas genéticas comerciales han repartido hojas de cálculo entre sus clientes para que registren sus datos y tengan los parámetros de mayor interés en un solo formato, con diferencias entre el estándar y el real, así como la gráfica de producción en etapas de crecimiento y postura. (Itza y Ciro, 2020).
 
     p.mb-5(data-aos="fade-right") Ahora bien, para calcular los parámetros de producción, existen ecuaciones que explican el comportamiento productivo de cada uno de ellos. Un parámetro que aparece en las tablas de producción es la viabilidad (%) que se expresa como:
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-6.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-31.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") Sin embargo, lo que no está vivo está muerto. Y el parámetro con mayor uso que la viabilidad es la mortalidad, que puede ser calculada por día o acumulada. Dicho parámetro no siempre aparece en las tablas de producción y a continuación es posible calcularlo.
     p.mb-5(data-aos="fade-right") La mortalidad día (%) se expresa como:
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-6.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-32.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") Este parámetro presenta la cantidad de aves muertas expresada en porcentaje. Para estar en el estándar, se recomienda no sobrepasar 3 bajas por cada 10,000 aves (0.03 %).
     p.mb-5(data-aos="fade-right") La mortalidad acumulada (%) se expresa como:
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-8.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-33.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") La mortalidad acumulada en crianza no debe exceder el 3.0 % a la semana 17, mientras que en postura, iniciando de la semana 18 a la 90, no debe exceder el 7.0 %. Sin embargo, los parámetros pueden variar de acuerdo con la línea genética e incluso existen empresas que, de acuerdo con las condiciones propias de cada región, modifican algunos parámetros (Itza y Ciro, 2020).
     p.mb-5(data-aos="fade-right") La postura o producción (%) de huevo día se expresa como:
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-6.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-34.svg" data-aos="fade-left")
+
+    p(data-aos="fade-right") La producción de huevo o postura (%) representa la proporción de gallinas que se encuentran en producción por cada 100. Es importante notar que este parámetro es el primero en ser solicitado, debido a que permite comparar con el objetivo o estándar y saber la relación de aves que se encuentran en postura contra aquellas que están en “descanso” o fuera de postura. (Itza y Ciro, 2020)
+    p.mb-5(data-aos="fade-right") El peso de huevo o peso promedio de huevo (g) se expresa como:
+
+    .col-xl-6.mx-auto.mb-5
+      img.d-md-block(src="@/assets/curso/temas/tema4/img-34-1.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") Debido a que se vende kilogramos de huevo, saber el peso del huevo es primordial para las finanzas de la empresa. Al saber el peso promedio del huevo (g) se puede hacer el cálculo para determinar el peso promedio de cada caja de huevo. Hay que recordar que cada caja contiene 360 piezas o unidades de huevo, que si se multiplica por el peso del huevo, un supuesto de 60 g, se tendrá un peso neto de 21.60 kg por caja.
     p.mb-5(data-aos="fade-right") El consumo de alimento por ave día se expresa como:
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-6.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-35.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") Hay que recordar que el consumo de alimento representa entre el 60 y el 70 % de los costos fijos de producción. La ecuación también nos permite despejar para obtener la cantidad de alimento que se ofertará, conociendo la cantidad de aves alojadas.
     p.mb-5(data-aos="fade-right") Un parámetro por demás interesante es el que se expresa como:
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-8.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-36.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") En las guías de manejo de cada línea genética, se mencionan las cantidades de huevos puestos por ave alojada. Esta ecuación permite obtener dicho dato.
     p.mb-5(data-aos="fade-right") Otro parámetro importante, considerado el segundo en importancia, es la conversión de alimento, la cual se expresa como:
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-8.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-37.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") La conversión alimenticia expresa la cantidad o unidades de alimento que se debe consumir por ave para producir una unidad de producto, como huevo o carne. La conversión de alimento debe ser lo menor posible para obtener el mayor rendimiento del producto.
     p.mb-5(data-aos="fade-right") La masa de huevo (g) se expresa como: 
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-6.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-38.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") Sumando los resultados previos, se obtienen los acumulados respectivos. La masa de huevo no es muy utilizada por la industria, sin embargo, se menciona que se debe tener en cuenta que los requerimientos nutritivos de las aves se relacionan muy estrechamente con la masa diaria de huevos, y es mejor conocer este parámetro, conjuntamente con los anteriores.
     p.mb-5(data-aos="fade-right") Por último, el índice de producción se expresa como:
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-8.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema4/img-39.svg" data-aos="fade-left")
 
     p(data-aos="fade-right") El I.P. se mide en puntos o unidades que resumen los parámetros anteriores y proporcionan una cifra que califica a la parvada: mientras mayor sea el I.P., la productividad de la parvada es mayor.
