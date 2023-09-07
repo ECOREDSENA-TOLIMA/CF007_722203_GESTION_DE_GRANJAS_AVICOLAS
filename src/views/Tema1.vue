@@ -26,13 +26,13 @@
             img.mx-auto(src='@/assets/curso/temas/tema1/img-2.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Gafas de seguridad").p-4
         .col-md-6.mb-4.mb-md-0
-          p Es un elemento que protege los ojos de la proyección de partículas sólidas o líquidas en el manejo de sustancias químicas, biológicas o corrosivas. Están elaboradas en policarbonato, con antiempañante.
+          p Es un elemento que protege los ojos de la proyección de partículas sólidas o líquidas en el manejo de sustancias químicas, biológicas o corrosivas. Están elaboradas en policarbonato con antiempañante.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-3.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Respirador con protección para material particulado").p-4
         .col-md-6.mb-4.mb-md-0
-          p Este respirador, con filtro mecánico para partículas de menos de 10 micras, ayuda en el manejo de los galpones, para el polvo, manejo de la cama y alimento de las aves. El respirador se conoce comúnmente como el nombre de "N-95”, cubre la cara y filtra el aire. Suelen ser  desechables.
+          p Este respirador con filtro mecánico para partículas de menos de 10 micras, ayuda en el manejo de los galpones, para el polvo, manejo de la cama y alimento de las aves. El respirador se conoce comúnmente como el nombre de "N-95”, cubre la cara y filtra el aire. Suelen ser  desechables.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-4.png', style="max-width:450px", alt='Texto que describa la imagen')
@@ -50,11 +50,11 @@
             img.mx-auto(src='@/assets/curso/temas/tema1/img-6.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Botas de caucho de caña alta").p-4
         .col-md-6.mb-4.mb-md-0
-          p Las botas deben ser de caña alta, para facilitar los trabajos en condiciones húmedas, como el lavado y desinfección del galpón, además, que permitan la rápida y efectiva limpieza y desinfección de las mismas. Deben tener suelas antideslizantes, para evitar caídas y accidentes.
+          p Las botas deben ser de caña alta, para facilitar los trabajos en condiciones húmedas como el lavado y desinfección del galpón, además, que permitan la rápida y efectiva limpieza y desinfección de las mismas. Deben tener suelas antideslizantes para evitar caídas y accidentes.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-7.png', style="max-width:450px", alt='Texto que describa la imagen')
-      .row(titulo="Overol anti fluidos, lavable, impermeable").p-4
+      .row(titulo="Overol anti fluidos, lavable e impermeable").p-4
         .col-md-6.mb-4.mb-md-0
           p Este elemento está diseñado para proteger el cuerpo del operario de diferentes sustancias, ya sean químicas, biológicas o físicas, así como de material  sólido.
         .col-md-6

@@ -18,7 +18,7 @@
         .col-xl-12.mx-auto
           .cajon.color-acento-contenido.p-4.d-flex.flex-wrap(data-aos="fade-right")
             .col-md-12.ps-lg-4
-              p Los músculos que mueven las alas, únicos en las aves que vuelan, se encuentran adheridos a la quilla del esternón, que también sostiene los órganos vitales de la cavidad abdominal. Estos músculos están bien desarrollados, en especial, en gran parte de las aves El desarrollo muscular se ha incrementado a través de la selección genética, como es evidente en las modernas líneas de pavo y de pollo para carne, aunque estas aves domésticas solo pueden volar cortas distancias. (Estrada, 2011).
+              p Los músculos que mueven las alas, únicos en las aves que vuelan, se encuentran adheridos a la quilla del esternón, que también sostiene los órganos vitales de la cavidad abdominal. Estos músculos están bien desarrollados, en especial, en gran parte de las aves. El desarrollo muscular se ha incrementado a través de la selección genética, como es evidente en las modernas líneas de pavo y de pollo para carne, aunque estas aves domésticas solo pueden volar cortas distancias. (Estrada, 2011).
               p Así como los mamíferos, las aves poseen tres tipos de músculo: liso, cardiaco (control no voluntario - músculo en tracto gastrointestinal y corazón-) y esquelético; este último constituye la mayoría de la masa muscular. (Estrada, 2011).
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema3/img-19.svg" data-aos="fade-right")
 
@@ -38,7 +38,7 @@
 
     p.mb-5(data-aos="fade-right") Existe una marcada diferencia con los mamíferos. La mayor diferencia es que el huevo es fertilizado en el infundíbulo, suplido de nutrientes, rodeado de una cáscara y expedido del cuerpo. Los testículos miden aproximadamente 5 cm de longitud, de color blanquecino en actividad reproductiva y de menor tamaño y color amarillento en inactividad reproductiva o muda. 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-itemfs-center.mb-5
       .col-12.col-md-6.mb-3(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema3/figura_4.svg', alt='') 
@@ -80,7 +80,7 @@
     .col-xl-10.mx-auto
       .cajon.color-primario.p-4.d-flex.flex-wrap(data-aos="fade-right" style="background-color: #FFE8CE")
         .col-md-11.ps-lg-4
-          p Para profundizar sobre la anatomía y fisiología de las aves de corral, se recomienda consultar el libro “A Colour Atlas of Avian Anatomy”, el documento “Anatomía y Fisiología Aviar” y la página web “Gallina Castellana Negra”, disponibles en el material complementario.
+          p Para profundizar sobre la anatomía y fisiología de las aves de corral, se recomienda consultar el libro <em>“A Colour Atlas of Avian Anatomy”,</em> el documento “Anatomía y fisiología aviar” y la página web “Gallina castellana negra”, disponibles en el material complementario.
 
 </template>
 

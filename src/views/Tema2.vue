@@ -154,17 +154,13 @@
         p En varios países del mundo, principalmente en Europa, se está trabajando en la redefinición de los estándares de producción, basados en los criterios del bienestar animal, para atender nuevas normatividades (Estrada, 2011). En la producción avícola, hay prácticamente tres sistemas productivos: sistema de pastoreo o sistema integral autosuficiente, sistema de confinamiento o intensivo y sistema semi-intensivo; cada uno con características propias, las cuales, además de impactar el desempeño, inciden sobre el comportamiento o conductas de las aves.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Sistema de pastoreo o sistema integral autosuficiente.
+      h3#t_1_1 Sistema de pastoreo o sistema integral autosuficiente
 
-    .d-flex.flex-wrap.mb-5
-      .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
-        .tarjeta.color-acento-contenido.p-4.d-flex.flex-wrap(data-aos="fade-right" style="background-color:#FFEBEB")
-          .col-md-11.ps-lg-4
-            p.mb-0(style="color: #000") Está basado en la producción tradicional, donde las aves duran todo el día en un terreno al aire libre, este debe permanecer limpio de suciedades o materiales extraños, requiere de menor mano de obra; la alimentación se hace por esparcimiento de concentrados y por picoteo ad libitum, se realiza dos veces diarias, con la desventaja de que no se tiene un control del alimento suministrado por animal y no se garantiza que todas tengan la oportunidad de alimentarse por igual, pero se garantiza la expresión de su comportamiento etológico normal y una más variada fuente de suplementación alimenticia. Las aves, por lo general, encuentran abrigo cerca de la casa o en alguna estructura rudimentaria que se haga para ellas; pueden hacer sus propios nidos en arbustos o malezas, por lo que los costos en infraestructura se reducen significativamente; sin embargo, este sistema se considera que es sólo apropiado para la producción de pequeñas cantidades de aves.
-      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-16.png" data-aos="fade-left" style="max-width: 400px")
+    .col-xl-12.mx-auto.mb-5
+      img.d-md-block(src="@/assets/curso/temas/tema2/cuadro_1.svg" data-aos="fade-left")
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Sistema de confinamiento o intensivo.
+      h3#t_1_1 Sistema de confinamiento o intensivo
 
     .row.mb-5
       .col-12.col-md-4.mb-3.mb-md-0(data-aos="fade-right")
@@ -174,16 +170,10 @@
         p Este tipo de sistema es el que clásicamente conocemos como productivo, donde las aves se encuentran confinadas en un corral o galpón, el cual está adecuado para el mantenimiento durante el tiempo productivo que estas requieran; se controlan todo el tiempo variables como alimentación, conversión, cantidad de huevos, entre otros, y  elementos de soporte como bebederos, comederos,  nidales, temperatura, humedad y demás, lo cual garantiza mayor eficiencia en el proceso, aunque se requiera de más cantidad de personal en comparación con los otros sistemas. Además, se hace un mayor aprovechamiento del espacio, es decir, más animales por metro cuadrado. Es el sistema más recomendado para producciones muy grandes o a gran escala, ya que la inversión en infraestructura y elementos operativos es bastante grande.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Sistema semi-intensivo.
+      h3#t_1_1 Sistema semi-intensivo
 
-    .d-flex.flex-wrap.mb-5
-      .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
-        .tarjeta.color-acento-contenido.p-4.d-flex.flex-wrap(data-aos="fade-right" style="background-color:#FFEBEB")
-          .col-md-11.ps-lg-4
-              p.mb-0(style="color: #000") Se caracteriza porque es un punto intermedio entre los dos sistemas productivos anteriores. El productor define una extensión determinada de terreno para las aves e interviene en el acondicionamiento del ambiente y de las instalaciones. Durante el día, las aves deambulan por el cercado, y en la noche, se les encierra en el gallinero o galpón, el cual está acondicionado con perchas, comederos, bebederos, nidales y demás. La alimentación es una combinación de concentrado con material forrajero e insectos, con lo que las aves complementan por picoteo ad libitum durante sus recorridos por el terreno cercado. Se requiere de una cantidad intermedia de personal. El control de la producción es moderado, puesto que permite llevar índices de conversión, alimentación, postura, entre otras. Se recomienda este tipo de producciones para pequeñas y medianas producciones.
-              p.mb-0(style="color: #000") Para reforzar conocimientos acerca de los sistemas de producción en la industria avícola, se recomienda ver el video “Ventajas y desventajas de los sistemas de producción avícola”, disponible en el material complementario.
-      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-18.png" data-aos="fade-left" style="max-width: 400px")
-
+    .col-xl-12.mx-auto.mb-5
+      img.d-md-block(src="@/assets/curso/temas/tema2/cuadro_2.svg" data-aos="fade-left")
 
 
 

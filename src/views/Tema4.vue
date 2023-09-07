@@ -23,23 +23,23 @@
           img(src='@/assets/curso/temas/tema4/img-26.svg', alt='Texto que describa la imagen')
 
       .tarjeta.color-acento-contenido.p-3(x="5%" y="34.5%" numero="+")
-        .h5.mb-2 Estirpe: 
+        .h5.mb-2 Estirpe 
         p.texto-negro Desde el contexto genético, se refiere a una población cerrada de animales de una raza obtenida por cruzamiento solo de animales de la población. Se diferencia de otras estirpes de la misma raza en las características morfológicas y/o productivas. 
 
       .tarjeta.color-acento-contenido.p-3(x="5%" y="49%" numero="+")
-        .h5.mb-2 Híbrido:
+        .h5.mb-2 Híbrido
         p.texto-negro Ave producto del cruzamiento consanguíneo de dos individuos durante varias generaciones.
 
       .tarjeta.color-acento-contenido.p-3(x="5%" y="64%" numero="+")
-        .h5.mb-2 Línea:
+        .h5.mb-2 Línea
         p.texto-negro Población cerrada de animales obtenida por cruces muy concretos dentro de un tronco familiar, donde el número de animales es reducido y la consanguinidad es elevada.
 
       .tarjeta.color-acento-contenido.p-3(x="95%" y="42%" numero="+")
-        .h5.mb-2 Raza:
+        .h5.mb-2 Raza
         p.texto-negro Grupo de individuos con características fenotípicas y genotípicas definidas que se transmiten a sus generaciones.
 
       .tarjeta.color-acento-contenido.p-3(x="95%" y="56.7%" numero="+")
-        .h5.mb-2 Variedad o variabilidad:
+        .h5.mb-2 Variedad o variabilidad
         p.texto-negro En genética, es una medida de la tendencia de los genotipos de una población a diferenciarse, un grupo de animales de una raza que presenta alguna variante que se expresa en su genotipo y fenotipo que, aunque pertenecen a la misma especie, no son idénticos.
 
     p(data-aos="fade-right") En las aves de postura, al igual que en los pollos de engorde, se comercializan líneas genéticas híbridas con el nombre de la empresa que las produce, que se enfocan en características que mejoren la producción y reduzcan los costos de la misma. Luego, las líneas en producción de huevos producen gran cantidad de huevos, tienen menor peso y consumen menos alimento. Y las líneas en producción de pollos de engorde, muestran superioridad en ganancia de peso y mayor conversión de alimento.

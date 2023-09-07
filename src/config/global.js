@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Producción aves, carne, huevo y bienestar animal',
+    componenteFormativo: 'Producción de aves, carne, huevo y bienestar animal',
     descripcionCurso:
       'En la avicultura es de gran importancia conocer sobre las actividades que conciernen a nutrición y sanidad en el proceso productivo, en temas que van desde las líneas genéticas, especificaciones del galpón, elementos dentro del mismo alimentación y conversión, entre otros; esto con el fin de que se comprenda las diversas etapas productivas implícitas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
@@ -420,11 +420,6 @@ export default {
         'Resolución 0253 de 2020. [Ministerio de Agricultura y Desarrollo Rural]. Por la cual se adopta el Manual de Condiciones de Bienestar Animal propias de cada una de las especies de producción del sector agropecuario: bovina, bufalina, aves de corral y animales acuáticos. Octubre 29 de 2020.',
       link:
         'https://fenavi.org/wp-content/uploads/2020/10/RESOLUCION-0253-DE-2020.pdf',
-    },
-    {
-      referencia:
-        'Universidad de Antioquia. (s. f.). <em>Aprende en Línea: Entrar al sitio.</em> Aprende en Línea.',
-      link: 'https://aprendeenlinea.udea.edu.co/lms/moodle/login/index.php',
     },
     {
       referencia:

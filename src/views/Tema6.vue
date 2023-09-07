@@ -49,7 +49,7 @@
 
     p.mb-5 Las criadoras se utilizan en la industria avícola durante las primeras semanas, para mejorar las condiciones climáticas de los pollitos, a través de la regulación de la temperatura. Existen criadoras con capacidad de 500 a 1000 pollitos. Si la producción es realmente pequeña, se pueden utilizar, en reemplazo, bombillas de 200 voltios. De acuerdo con lo anterior, se puede decir que hay diferentes clases de criadoras:
     
-    .col-xl-12.mx-auto
+    .col-xl-12.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema6/img-5.svg" data-aos="fade-right")
 
     p.mb-5 Es necesario garantizar la temperatura correcta, es decir que se deben evitar las diferencias superiores a 3 ºC entre la máxima y la mínima, para lo cual hay que tener en cuenta lo siguiente:
@@ -72,7 +72,8 @@
         p Deben ser cómodos, atractivos y oscuros, para que la gallina se sienta segura. Pueden ser de madera, de plástico o metálicos. Se ponen uniformemente dentro del galpón, en los lugares de menor iluminación. Se deben limpiar permanentemente. Cada nido debe tener viruta o paja. Ubicar unos tablones en los nidos permite cerrarlos en la noche y abrirlos muy temprano, para evitar que duerman allí y los ensucien. (Lascarro, 2014)
         .cajon.color-primario.p-4.d-flex.flex-wrap(style="background-color: #FFE8CE")
           .col-md-12.ps-lg-4  
-            p Los parámetros de una producción se calculan con base en los datos del comportamiento productivo, por ejemplo, la cantidad de huevo, el peso corporal, los huevos producidos por ave, el porcentaje de producción, el porcentaje de mortalidad, la conversión alimenticia, entre otros. Para el caso de las gallinas, se calculan desde uno o varios lotes de gallinas de la misma estirpe o línea genética. La información obtenida refleja el desarrollo del potencial genético del ave con relación a su línea, edad y sexo. (Itza y Ciro, 2020).
+            p 1 nidal por cada 4-5 aves.
+            p Dimensiones: 30 cm de ancho, 30 cm de alto, de 35 a 40 cm de profundidad, y a 60 cm de altura del piso (Lascarro, 2014)
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema6/img-8.png" data-aos="fade-right")
 
     .row.justify-content-center.align-items-center.mb-4

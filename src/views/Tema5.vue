@@ -89,14 +89,12 @@
     p.mb-5 Luego, se necesitarían 33 metros cuadrados para construir un galpón que ocuparán 200 aves.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Ancho, largo y alto.
+      h3#t_1_1 Ancho, largo y alto
 
-    .row
-      .cajon-b.color-acento-contenido.p-3.mb-4
-        .d-flex.flex-wrap.mb-5
-          .col-xl-6.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
-            p El ancho lo determina el clima de la zona, debe estar en un rango entre 10 y 12 metros, de lo cual depende una correcta iluminación y ventilación. Mientras, el largo está determinado por el área y el ancho del galpón, y puede ir desde 25 metros hasta no más de 100 metros, para evitar que el manejo se haga más difícil. El alto, por su parte, influye drásticamente en la temperatura y ventilación del galpón: entre más alto sea el galpón, habrá mayor ventilación, evaporación de gases y por ende menor temperatura, lo cual es útil en climas cálidos, y viceversa. (Vélez, 2013).
-          img.mb-4.mb-xl-0.col-xl-5.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema5/img-45.svg" data-aos="fade-right")
+    .d-flex.flex-wrap.mb-5
+      .col-xl-7.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
+        p El ancho lo determina el clima de la zona, debe estar en un rango entre 10 y 12 metros, de lo cual depende una correcta iluminación y ventilación. Mientras, el largo está determinado por el área y el ancho del galpón, y puede ir desde 25 metros hasta no más de 100 metros, para evitar que el manejo se haga más difícil. El alto, por su parte, influye drásticamente en la temperatura y ventilación del galpón: entre más alto sea el galpón, habrá mayor ventilación, evaporación de gases y por ende menor temperatura, lo cual es útil en climas cálidos, y viceversa. (Vélez, 2013).
+      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema5/img-45.svg" data-aos="fade-right")
 
     .row.justify-content-center.align-items-center
       .col-12.col-md-6.mb-3(data-aos="fade-right")
@@ -129,7 +127,7 @@
               img(src='@/assets/curso/temas/tema5/techo_agua.svg', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            h3 Techo a un agua:
+            h3 Techo a un agua
             p Se usa en producciones pequeñas; el lado con menor altura tiene que estar en dirección contraria al viento.
 
         .row.justify-content-center.align-items-center.my-lg-4
@@ -138,7 +136,7 @@
               img(src='@/assets/curso/temas/tema5/techo_cerrado.svg', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            h3 Techo de dos aguas cerrado:
+            h3 Techo de dos aguas cerrado
             p Aunque es el más popular, no brinda una adecuada ventilación en la parte superior; por esta razón, no se recomienda su uso en climas cálidos.
         
         .row.justify-content-center.align-items-center.my-lg-4
@@ -147,7 +145,7 @@
               img(src='@/assets/curso/temas/tema5/techo_asimetrico.svg', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            h3 Techo de dos aguas asimétrico:
+            h3 Techo de dos aguas asimétrico
             p Brinda una adecuada ventilación y ayuda en la evaporación de los gases por la parte  superior. Dado lo anterior, es bueno para climas cálidos, pero tiene la desventaja que, al momento de llover con vientos fuertes, tiene la posibilidad de que el agua pueda entrar por el desnivel superior. (Gonzáles, 2018).
 
         .row.justify-content-center.align-items-center.my-lg-4
@@ -156,7 +154,7 @@
               img(src='@/assets/curso/temas/tema5/techo_claraboya.svg', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            h3 Techo dos aguas con claraboya:
+            h3 Techo dos aguas con claraboya
             p De alto costo de inversión, ofrece una ventilación eficiente. Comúnmente usados en explotaciones grandes o en climas cálidos que tengan una humedad ambiental alta.
 
     .row
@@ -164,14 +162,14 @@
         p.mb-5 Los techos más utilizados en la infraestructura para la producción avícola son: a un agua, a dos aguas cerradas, a dos aguas asimétricas y a dos aguas con claraboya.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Materiales de construcción techos.
+      h3#t_1_1 Materiales de construcción techos
     
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-botones.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img-2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los techos pueden estar construidos en diversos materiales, dependiendo del sistema productivo, el clima, la disponibilidad y los costos. Estos pueden ser en lámina de zinc, Eternit, teja de barro, cobertizos naturales, etc. En el siguiente video, se pueden apreciar algunos de ellos.
+        p.mb-0 Los techos pueden estar construidos en diversos materiales, dependiendo del sistema productivo, el clima, la disponibilidad y los costos. Estos pueden ser en lámina de zinc, eternit, teja de barro, cobertizos naturales, etc. En el siguiente video, se pueden apreciar algunos de ellos.
 
     Separador 
 
@@ -212,50 +210,50 @@
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-5
-          .col-12
-            img.img-slider(src='@/assets/curso/temas/tema5/slider_1.png' alt='')
+          .col-10
+            img.img-slider(src='@/assets/curso/temas/tema5/slider_1.svg' alt='')
         h4.text-center.texto-negro Muro en ladrillo y malla metálica                     
        
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-5
-          .col-12
-            img.img-slider(src='@/assets/curso/temas/tema5/slider_2.png' alt='')
+          .col-10
+            img.img-slider(src='@/assets/curso/temas/tema5/slider_2.svg' alt='')
         h4.text-center.texto-negro Muro en tabla de madera y malla metálica
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-5  
           .col-12
-            img.img-slider(src='@/assets/curso/temas/tema5/slider_3.png' alt='')
+            img.img-slider(src='@/assets/curso/temas/tema5/slider_3.svg' alt='')
         h4.text-center.texto-negro Muro en palmiche o guadua  y malla metálica                                                      
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-5
-          .col-12
-            img.img-slider(src='@/assets/curso/temas/tema5/slider_4.png' alt='')
+          .col-10
+            img.img-slider(src='@/assets/curso/temas/tema5/slider_4.svg' alt='')
         h4.text-center.texto-negro Malla metálica sin muro 
       
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-5
-          .col-12
-            img.img-slider(src='@/assets/curso/temas/tema5/slider_5.png' alt='')
+          .col-10
+            img.img-slider(src='@/assets/curso/temas/tema5/slider_5.svg' alt='')
         h4.text-center.texto-negro Vigas y soportes en madera
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-5
           .col-12
-            img.img-slider(src='@/assets/curso/temas/tema5/slider_6.png' alt='')
+            img.img-slider(src='@/assets/curso/temas/tema5/slider_6.svg' alt='')
         h4.text-center.texto-negro Vigas y soportes en guadua
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-5
-          .col-12
-            img.img-slider(src='@/assets/curso/temas/tema5/slider_7.png' alt='')
+          .col-11
+            img.img-slider(src='@/assets/curso/temas/tema5/slider_7.svg' alt='')
         h4.text-center.texto-negro Vigas y soportes en acero 
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-5
-          .col-12
-            img.img-slider(src='@/assets/curso/temas/tema5/slider_8.png' alt='')
+          .col-11
+            img.img-slider(src='@/assets/curso/temas/tema5/slider_8.svg' alt='')
         h4.text-center.texto-negro Vigas y soportes en acero y concreto
 
     Separador 
@@ -272,7 +270,21 @@
             i.fas.fa-play(style="color:#FFC403")
             | <strong>Materiales de construcción pisos</strong>
     
-    p.mb-5 Los materiales del piso pueden clasificarse de acuerdo con los costos implicados. Económicos: suelo en tierra, bien apisonado, encalado, más la cama; con inversión moderada: suelo en madera, separado del suelo, encalado, más la cama; y con inversión alta: suelo en tierra, recubierto con dos capas de balasto y una capa de cemento, con la debida inclinación, encalado y cama.
+    p Los materiales del piso pueden clasificarse de acuerdo con los costos implicados. 
+    
+    ol.lista-ol--cuadro.mb-5
+      li 
+        .lista-ol--cuadro__vineta
+          span a
+        | <strong>Económicos:</strong> suelo en tierra, bien apisonado, encalado, más la cama.
+      li 
+        .lista-ol--cuadro__vineta
+          span b
+        | <strong>Inversión moderada:</strong> suelo en madera, separado del suelo, encalado, más la cama.
+      li 
+        .lista-ol--cuadro__vineta
+          span c
+        | <strong>Inversión alta:</strong> suelo en tierra, recubierto con dos capas de balasto y una capa de cemento, con la debida inclinación, encalado y cama.
 
     .col-xl-10.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema5/cuadro_4.svg" data-aos="fade-left")

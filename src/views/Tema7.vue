@@ -28,7 +28,7 @@
     
     .col-xl-12.mx-auto
       .cajon.color-primario.p-4.d-flex.flex-wrap(data-aos="fade-right" style="background-color: #FFE8CE")
-        .col-md-11.ps-lg-4
+        .col-md-12.ps-lg-4
           p En el control de la temperatura, además, se debe tener en cuenta que las aves son poiquilotermas cuando son pequeñas, y su temperatura es de alrededor de 37.5 ºC, hasta más o menos la tercera semana, en que se estabiliza. Al ser un ave adulta, alcanza una temperatura normal del cuerpo de alrededor de 41 °C. De ahí la importancia de proporcionar una temperatura adecuada a los pollitos, para no afectar el rendimiento y el crecimiento, o incluso producir una alta tasa de mortalidad.
 
     Separador 
@@ -53,7 +53,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 14.
+        h5 Figura 22.
         span <em>Ventilación</em>
       img.d-md-block.mb-3(src="@/assets/curso/temas/tema7/img-4.svg" data-aos="fade-left")
       figcaption Nota. Tomada de FENAVI
