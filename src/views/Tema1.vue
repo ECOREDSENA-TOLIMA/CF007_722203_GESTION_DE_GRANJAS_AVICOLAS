@@ -72,7 +72,7 @@
         p Los riesgos laborales en estas etapas están referidos a las labores de limpieza, desinfección y adecuación de los galpones o corrales, a las actividades diarias de manejo de los animales y a la disposición de residuos generados durante estas actividades. En el área de salud, lo que más se recomienda es el uso de indumentaria adecuada, el cumplimiento de las normas de prevención, así como de los protocolos y tiempos establecidos con las diferentes etapas en el proceso productivo.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.2 Elementos de protección personal relacionados con el manejo de aves en etapa de levante
+      h2#t_1_2 1.2 Elementos de protección personal relacionados con el manejo de aves en etapa de levante
 
     .d-flex.flex-wrap
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1

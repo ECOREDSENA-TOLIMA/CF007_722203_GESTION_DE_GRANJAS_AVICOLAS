@@ -13,7 +13,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.1 Tipos de líneas comerciales de aves
+      h2#t_4_1 4.1 Tipos de líneas comerciales de aves
 
     p.mb-5(data-aos="fade-right") Para hablar de los tipos de líneas comerciales, es necesario que se entre en contexto y se comprendan algunos términos que serán de ayuda para este tema. Para ello, se presenta la siguiente infografía.
 
@@ -223,7 +223,7 @@
               | Son fuertemente resistentes a las enfermedades.
   
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.2 Manuales de manejo de líneas genéticas
+      h2#t_4_2 4.2 Manuales de manejo de líneas genéticas
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
@@ -234,7 +234,7 @@
         p Para acceder a cada uno de estos manuales, basta con iniciar una consulta en cualquier motor de búsqueda disponible e introducir el nombre de la raza comercial de la cual se quiere obtener información.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.3 Parámetros productivos
+      h2#t_4_3 4.3 Parámetros productivos
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")

@@ -22,7 +22,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.1 Ley 84 de 1989
+      h2#t_2_1 2.1 Ley 84 de 1989
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
@@ -45,7 +45,7 @@
                   i.fas.fa-file-download
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.2 Ley 1774 de 2016
+      h2#t_2_2 2.2 Ley 1774 de 2016
 
     .row.mb-5
       .col-12.col-md-4.mb-3.mb-md-0
@@ -103,7 +103,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.3 Decreto 2113 de 2017
+      h2#t_2_3 2.3 Decreto 2113 de 2017
 
     .row.mb-5
       .col-12.col-md-2.mb-3.mb-md-0
@@ -124,7 +124,7 @@
                   i.fas.fa-file-download
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.4 Resolución 253 de 2020
+      h2#t_2_4 2.4 Resolución 253 de 2020
 
     .d-flex.flex-wrap.mb-5
       .col-xl-9.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
@@ -144,7 +144,7 @@
       img.mb-4.mb-xl-0.col-xl-3.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-14.png" style="max-width: 320px")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.5 Comportamiento animal y parámetros etológicos
+      h2#t_2_5 2.5 Comportamiento animal y parámetros etológicos
     
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")

@@ -10,7 +10,7 @@
     p.mb-5(data-aos="fade-right") Conocer algunos aspectos de las especies con las que se trabaja en la producción es de gran importancia, puesto que facilita comprender cómo se comportan, cómo producen y la forma en que lo hacen. En el caso de las aves en particular, es necesario diferenciarlas de otros animales de producción, porque su fisiología y anatomía las hace realmente distintas.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.1 Sistema músculo esquelético
+      h2#t_3_1 3.1 Sistema músculo esquelético
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
@@ -34,7 +34,7 @@
               p La forma del cuerpo va a definir si se trata de líneas productoras de carne o de huevo. Ambas son líneas genéticamente diferentes y por lo tanto presentan una conformación diferente. Las líneas productoras de carne presentan formas rectangulares, con un gran desarrollo muscular de los miembros inferiores y pechuga, que son los cortes mejor pagos. En cambio, las líneas productoras de huevo, tienen un cuerpo triangular, donde la base del triángulo corresponde a la cola, con un gran desarrollo de la cloaca, porque lo que va a explotar es la puesta; por tanto, esta zona debe permitir el buen pasaje del huevo a través del oviducto (Estrada, 2011).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.2 Sistema reproductivo
+      h2#t_3_2 3.2 Sistema reproductivo
 
     p.mb-5(data-aos="fade-right") Existe una marcada diferencia con los mamíferos. La mayor diferencia es que el huevo es fertilizado en el infundíbulo, suplido de nutrientes, rodeado de una cáscara y expedido del cuerpo. Los testículos miden aproximadamente 5 cm de longitud, de color blanquecino en actividad reproductiva y de menor tamaño y color amarillento en inactividad reproductiva o muda. 
 
@@ -54,7 +54,7 @@
     p.mb-5(data-aos="fade-right") El huevo es una estructura biológica que soporta todos los procesos de vida y crecimiento del embrión, pues contiene todos los elementos necesarios para su desarrollo. Para su fertilización requiere del macho.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.3 Sistema digestivo
+      h2#t_3_3 3.3 Sistema digestivo
 
     .row
       .cajon-b.color-acento-botones.p-3.mb-5

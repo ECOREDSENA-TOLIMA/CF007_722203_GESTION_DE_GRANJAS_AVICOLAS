@@ -114,7 +114,6 @@
 
     Separador 
 
-  
     PasosA.color-acento-botones.mb-5(tipo="n")
       .row
         .col-lg

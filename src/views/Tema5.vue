@@ -13,7 +13,7 @@
           p El alojamiento de las aves es un tema de gran importancia, ya que puede marcar la diferencia entre el éxito o el fracaso de una producción. Es por esto que las instalaciones deben ser diseñadas de la mejor manera posible, teniendo en cuenta el bienestar de las aves, la inversión o costos y la complejidad del trabajo para los trabajadores. Lo anterior permite que se ofrezca un ambiente idóneo para que la parvada demuestre su potencial genético. Teniendo en cuenta los sistemas productivos, pueden variar las características de los alojamientos en cuanto a materiales, capacidad, ubicación, elementos, protocolos, entre otros, por lo cual se tratará más a fondo a continuación.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.1 Ubicación del galpón
+      h2#t_5_1 5.1 Ubicación del galpón
 
     p.mb-5 Para situar el galpón en un lugar idóneo dentro del predio destinado para tal fin, hay que tener en cuenta ciertos puntos.
 
@@ -43,7 +43,7 @@
       img.d-md-block(src="@/assets/curso/temas/tema5/img-40.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.2 Terreno 
+      h2#t_5_2 5.2 Terreno 
     
     .d-flex.flex-wrap.mb-5
       .col-xl-6.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
@@ -51,7 +51,7 @@
       img.mb-4.mb-xl-0.col-xl-6.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema5/img-41.svg" data-aos="fade-right")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.3 Orientación 
+      h2#t_5_3 5.3 Orientación 
 
     p La orientación es la dirección que debe seguir el eje longitudinal del galpón, dependiendo de los parámetros de ventilación, humedad, concentración de CO2, amoniaco e iluminación, pero además el clima en el que se va a llevar a cabo la producción, para garantizar que estos factores jueguen a favor. (Vélez, 2013).
     p.mb-5 Se define por la temperatura ambiental y la dirección de los vientos:
@@ -69,7 +69,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.4 Dimensiones básicas del galpón
+      h2#t_5_4 5.4 Dimensiones básicas del galpón
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -107,7 +107,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.5 Techos 
+      h2#t_5_5 5.5 Techos 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -191,7 +191,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h3#t_1_1 5.6 Muros y ventanas
+      h3#t_5_6 5.6 Muros y ventanas
 
     p.mb-5 Los muros deben rodear el galpón. Se conectan con el techo, en su borde lateral, por medio de una malla hexagonal de ¾ de pulgada, formando así las ventanas, que permiten la buena ventilación y la no penetración de pájaros u otros animales (Vélez, 2013). Su altura depende del clima: si es muy cálido, no se usan muros; si es cálido, deben medir entre 20 y 30 cm; y si es frío, deben medir entre 80 y 100 cm.
 
@@ -259,7 +259,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h3#t_1_1 5.7 Pisos
+      h3#t_5_7 5.7 Pisos
 
     p.mb-5 Los pisos deben tener un desnivel del 1 al 3%, desde el centro a los extremos, que se utiliza para facilitar la limpieza y desinfección en el periodo de preparación de los galpones. Deben permitir la limpieza y desinfección, resistencia y durabilidad.
 

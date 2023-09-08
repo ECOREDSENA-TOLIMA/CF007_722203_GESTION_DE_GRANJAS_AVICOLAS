@@ -15,7 +15,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.1. Temperatura
+      h2#t_7_1 7.1. Temperatura
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
@@ -34,7 +34,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.2. Humedad
+      h2#t_7_2 7.2. Humedad
 
     .row
       .cajon-b.color-acento-contenido.p-3.mb-4
@@ -47,7 +47,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.3 Ventilación
+      h2#t_7_3 7.3 Ventilación
 
     p.mb-5 La ventilación se necesita con el fin de regular la temperatura y controlar gases como el dióxido de carbono, el amoníaco, la humedad, el polvo y los olores. La forma correcta de hacerlo es introduciendo aire fresco uniformemente, permitiendo que esté bien mezclado con aire del galpón y que se distribuya correctamente, antes de salir hacia el exterior. Los galpones con pobre ventilación son proclives a que las aves sufran de afecciones respiratorias e irritación ocular.
 
@@ -61,7 +61,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.4 Iluminación
+      h2#t_7_4 7.4 Iluminación
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -73,7 +73,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.5. Técnicas de monitoreo y equipos de medición variables ambientales
+      h2#t_7_5 7.5. Técnicas de monitoreo y equipos de medición variables ambientales
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
