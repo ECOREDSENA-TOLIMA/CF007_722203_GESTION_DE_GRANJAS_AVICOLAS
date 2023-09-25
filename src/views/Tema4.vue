@@ -11,9 +11,8 @@
       img.d-md-block(src="@/assets/curso/temas/tema4/cuadro.svg" data-aos="fade-left")
 
     Separador
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_1 4.1 Tipos de líneas comerciales de aves
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 4.1 Tipos de líneas comerciales de aves
 
     p.mb-5(data-aos="fade-right") Para hablar de los tipos de líneas comerciales, es necesario que se entre en contexto y se comprendan algunos términos que serán de ayuda para este tema. Para ello, se presenta la siguiente infografía.
 
@@ -222,8 +221,9 @@
               i.fas.fa-circle
               | Son fuertemente resistentes a las enfermedades.
   
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_2 4.2 Manuales de manejo de líneas genéticas
+    Separador
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 4.2 Manuales de manejo de líneas genéticas
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
@@ -233,8 +233,9 @@
         p En la industria avícola, existen diferentes empresas que comercializan y distribuyen las líneas genéticas a las granjas productoras. Estas casas comerciales buscan estandarizar ciertas razas y sacar los mejores parámetros en cuanto a rentabilidad y productividad, razón por la cual hacen rigurosos estudios que consignan en documentos llamados manuales técnicos, que tienen el fin de que los productores tengan una guía y herramienta para el manejo rentable de sus producciones, garantizando que tengan alta rentabilidad con un mínimo de costos. Dentro de estos manuales, se pueden encontrar parámetros como tasa de conversión de alimento, requerimiento nutricional por semana, curva productiva, resistencia, mortalidad, morbilidad, entre otros.
         p Para acceder a cada uno de estos manuales, basta con iniciar una consulta en cualquier motor de búsqueda disponible e introducir el nombre de la raza comercial de la cual se quiere obtener información.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_3 4.3 Parámetros productivos
+    Separador
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 4.3 Parámetros productivos
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")

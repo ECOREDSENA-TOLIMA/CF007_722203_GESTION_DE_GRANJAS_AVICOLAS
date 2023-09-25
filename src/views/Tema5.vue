@@ -12,8 +12,9 @@
         .bloque-texto-a__texto.p-4(style="background-color: #FFE8CE")
           p El alojamiento de las aves es un tema de gran importancia, ya que puede marcar la diferencia entre el éxito o el fracaso de una producción. Es por esto que las instalaciones deben ser diseñadas de la mejor manera posible, teniendo en cuenta el bienestar de las aves, la inversión o costos y la complejidad del trabajo para los trabajadores. Lo anterior permite que se ofrezca un ambiente idóneo para que la parvada demuestre su potencial genético. Teniendo en cuenta los sistemas productivos, pueden variar las características de los alojamientos en cuanto a materiales, capacidad, ubicación, elementos, protocolos, entre otros, por lo cual se tratará más a fondo a continuación.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_1 5.1 Ubicación del galpón
+    Separador
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.1 Ubicación del galpón
 
     p.mb-5 Para situar el galpón en un lugar idóneo dentro del predio destinado para tal fin, hay que tener en cuenta ciertos puntos.
 
@@ -40,18 +41,20 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 9.
         span <em> Ubicación del galpón</em>
-      img.d-md-block(src="@/assets/curso/temas/tema5/img-40.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema5/img-40.svg" data-aos="fade-left" alt="En la figura 9 se muestra las medidas para la ubicación del galpón.")
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_2 5.2 Terreno 
+    Separador
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.2 Terreno 
     
     .d-flex.flex-wrap.mb-5
       .col-xl-6.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
         p Elegir el terreno es de gran importancia para la ubicación espacial del galpón, por lo que deben tenerse en cuenta las características del terreno, la permeabilidad y textura para evitar humedad, el nivel freático, que debe ser bajo, y la topografía, que idealmente será plana. Se recomienda, además, que el terreno sea arenoso, puesto que ofrece mayor drenaje del agua y mayor absorción de la humedad. En terrenos propensos a inundaciones, se sugiere realizar la construcción en la parte más elevada y realizar una zanja de 60 cm de ancho x 1m de profundidad, paralelo a los muros de la construcción.
-      img.mb-4.mb-xl-0.col-xl-6.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema5/img-41.svg" data-aos="fade-right")
+      img.mb-4.mb-xl-0.col-xl-6.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema5/img-41.svg" data-aos="fade-right" alt="En la figura 10 se muestra el terreno para la ubicación del galpón.")
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_3 5.3 Orientación 
+    Separador
+    #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.3 Orientación 
 
     p La orientación es la dirección que debe seguir el eje longitudinal del galpón, dependiendo de los parámetros de ventilación, humedad, concentración de CO2, amoniaco e iluminación, pero además el clima en el que se va a llevar a cabo la producción, para garantizar que estos factores jueguen a favor. (Vélez, 2013).
     p.mb-5 Se define por la temperatura ambiental y la dirección de los vientos:
@@ -59,17 +62,16 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-5.mb-3(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema5/img-42-1.svg', alt='') 
+          img(src='@/assets/curso/temas/tema5/img-42-1.svg', alt='En la figura 11 se muestra la orientación del galpón según el clima.') 
       .col-12.col-md-5.mb-3.mt-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/temas/tema5/img-42-3.svg', alt='') 
+          img(src='@/assets/curso/temas/tema5/img-42-3.svg', alt='En la figura 11 se muestra la orientación del galpón según el clima.') 
 
     p.mb-5 Imprescindible tener en consideración el flujo de las corrientes de aire predominantes en la región, para prevenir que no pasen a través del galpón con demasiada fuerza, ya que esto implicaría modificaciones en la dirección del mismo, haciendo que el eje longitudinal está paralelo en dirección de los vientos; aunque también puede mitigarse con el uso de barreras naturales.
 
     Separador
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_4 5.4 Dimensiones básicas del galpón
+    #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.4 Dimensiones básicas del galpón
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -79,17 +81,17 @@
         p.mb-0 Estas son las medidas que se deben conocer básicamente para construir un galpón idóneo para cualquier tipo de producción avícola, cumpliendo con la normatividad y teniendo en cuenta el bienestar de los animales, además de otros factores que influyen, como el clima, la ventilación, la humedad, etc.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Área 
+      h3 Área 
 
     .d-flex.flex-wrap.mb-4
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
         p Está determinada por la cantidad de aves que se usarán en la producción y se da en metros cuadrados, teniendo en cuenta la variable de 5 aves/m2. Por ejemplo, si se van a producir 200 aves:
-      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema5/img-44.svg" data-aos="fade-right")
+      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema5/img-44.svg" data-aos="fade-right" alt="En la figura 12 se muestran las medidas de un galpón según el clima.")
 
     p.mb-5 Luego, se necesitarían 33 metros cuadrados para construir un galpón que ocuparán 200 aves.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Ancho, largo y alto
+      h3 Ancho, largo y alto
 
     .d-flex.flex-wrap.mb-5
       .col-xl-7.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1(data-aos="fade-right")
@@ -99,15 +101,14 @@
     .row.justify-content-center.align-items-center
       .col-12.col-md-6.mb-3(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema5/cuadro_1.svg', alt='') 
+          img(src='@/assets/curso/temas/tema5/cuadro_1.svg', alt='En la figura 13 se muestran las medidas de un galpón para clima frío. ') 
       .col-12.col-md-6.mb-3(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/temas/tema5/cuadro_2.svg', alt='') 
+          img(src='@/assets/curso/temas/tema5/cuadro_2.svg', alt='En la figura 14 se muestran las medidas de un galpón para clima cálido.') 
 
     Separador
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_5 5.5 Techos 
+    #t_5_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.5 Techos 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -117,7 +118,7 @@
         p.mb-0 El techo del galpón consta de dos partes principales: la estructura y la cubierta. Debe tener una superficie reflectiva para ayudar a reducir la conducción del calor solar, o sistemas de refrigeración por agua. Los techos, además, deben tener aleros, que deben medir por lo menos 1 metro, los cuales son necesarios para suministrar sombra sobre los costados del galpón y evitar la entrada de agua en época de lluvias. (Vélez, 2013).
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Clases de techos
+      h3 Clases de techos
 
     .tarjeta.tarjeta--azul2.p-4.mb-5
       SlyderA(tipo="a")
@@ -162,7 +163,7 @@
         p.mb-5 Los techos más utilizados en la infraestructura para la producción avícola son: a un agua, a dos aguas cerradas, a dos aguas asimétricas y a dos aguas con claraboya.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Materiales de construcción techos
+      h3 Materiales de construcción techos
     
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-botones.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -181,17 +182,16 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h3 ConstruArk - Proceso constructivo de una bodega o galpón en ambiente controlado
-                p En el siguiente anexo se puede observar el proceso constructivo de una bodega o galpón en ambiente controlado.
+                h3.texto-negro ConstruArk - Proceso constructivo de una bodega o galpón en ambiente controlado
+                p.texto-negro En el siguiente anexo se puede observar el proceso constructivo de una bodega o galpón en ambiente controlado.
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/embed/638IbwHsgmA?feature=oembed" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-link
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h3#t_5_6 5.6 Muros y ventanas
+    #t_5_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.6 Muros y ventanas
 
     p.mb-5 Los muros deben rodear el galpón. Se conectan con el techo, en su borde lateral, por medio de una malla hexagonal de ¾ de pulgada, formando así las ventanas, que permiten la buena ventilación y la no penetración de pájaros u otros animales (Vélez, 2013). Su altura depende del clima: si es muy cálido, no se usan muros; si es cálido, deben medir entre 20 y 30 cm; y si es frío, deben medir entre 80 y 100 cm.
 
@@ -257,9 +257,8 @@
         h4.text-center.texto-negro Vigas y soportes en acero y concreto
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h3#t_5_7 5.7 Pisos
+    #t_5_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.7 Pisos
 
     p.mb-5 Los pisos deben tener un desnivel del 1 al 3%, desde el centro a los extremos, que se utiliza para facilitar la limpieza y desinfección en el periodo de preparación de los galpones. Deben permitir la limpieza y desinfección, resistencia y durabilidad.
 

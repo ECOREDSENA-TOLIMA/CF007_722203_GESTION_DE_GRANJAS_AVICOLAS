@@ -13,9 +13,8 @@
       p Existen algunos factores medioambientales de importancia, que pueden llegar a influir en la producción de aves de corral, en la construcción de los galpones, en el manejo de las aves, en el bienestar, la etología y la conversión; asimismo, pueden ser fuente o causa de enfermedades y disminución de la producción, entre otros.  
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_1 7.1. Temperatura
+    #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.1. Temperatura
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
@@ -32,9 +31,8 @@
           p En el control de la temperatura, además, se debe tener en cuenta que las aves son poiquilotermas cuando son pequeñas, y su temperatura es de alrededor de 37.5 ºC, hasta más o menos la tercera semana, en que se estabiliza. Al ser un ave adulta, alcanza una temperatura normal del cuerpo de alrededor de 41 °C. De ahí la importancia de proporcionar una temperatura adecuada a los pollitos, para no afectar el rendimiento y el crecimiento, o incluso producir una alta tasa de mortalidad.
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_2 7.2. Humedad
+    #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.2. Humedad
 
     .row
       .cajon-b.color-acento-contenido.p-3.mb-4
@@ -45,9 +43,8 @@
           img.mb-4.mb-xl-0.col-xl-6.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema7/img-3.png" data-aos="fade-right")
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_3 7.3 Ventilación
+    #t_7_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.3 Ventilación
 
     p.mb-5 La ventilación se necesita con el fin de regular la temperatura y controlar gases como el dióxido de carbono, el amoníaco, la humedad, el polvo y los olores. La forma correcta de hacerlo es introduciendo aire fresco uniformemente, permitiendo que esté bien mezclado con aire del galpón y que se distribuya correctamente, antes de salir hacia el exterior. Los galpones con pobre ventilación son proclives a que las aves sufran de afecciones respiratorias e irritación ocular.
 
@@ -59,9 +56,8 @@
       figcaption Nota. Tomada de FENAVI
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_4 7.4 Iluminación
+    #t_7_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.4 Iluminación
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -71,9 +67,8 @@
         p.mb-0 Durante la crianza, la luz juega un papel importante, y el manejo de las horas en que se somete a esa luz, así como la intensidad de la misma influyen en la actividad y salud de las aves de corral. Durante los primeros 10 días de los pollitos, la intensidad lumínica debe ser elevada, así como el tiempo de exposición; pero al cumplir esta etapa, debe reducirse periódicamente. Los pollos de engorde, normalmente, son criados a 10 lux, mientras las gallinas ponedoras lo hacen con intensidades lumínicas entre 5 y 10 lux. 
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_5 7.5. Técnicas de monitoreo y equipos de medición variables ambientales
+    #t_7_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.5. Técnicas de monitoreo y equipos de medición variables ambientales
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1

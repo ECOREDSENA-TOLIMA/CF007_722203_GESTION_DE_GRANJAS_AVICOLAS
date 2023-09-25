@@ -32,7 +32,7 @@
             img.mx-auto(src='@/assets/curso/temas/tema1/img-3.png', style="max-width:450px", alt='Texto que describa la imagen')
       .row(titulo="Respirador con protección para material particulado").p-4
         .col-md-6.mb-4.mb-md-0
-          p Este respirador con filtro mecánico para partículas de menos de 10 micras, ayuda en el manejo de los galpones, para el polvo, manejo de la cama y alimento de las aves. El respirador se conoce comúnmente como el nombre de "N-95”, cubre la cara y filtra el aire. Suelen ser  desechables.
+          p Este respirador, con filtro mecánico para partículas de menos de 10 micras, ayuda en el manejo de los galpones, para el polvo, manejo de la cama y alimento de las aves. El respirador se conoce comúnmente como el nombre de “N-95”, cubre la cara y filtra el aire. Suelen ser  desechables.
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-4.png', style="max-width:450px", alt='Texto que describa la imagen')
@@ -61,8 +61,9 @@
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/img-8.png', style="max-width:450px", alt='Texto que describa la imagen')
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.1 Riesgos laborales en la etapa de levante
+    Separador
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.1 Riesgos laborales en la etapa de levante
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
@@ -71,8 +72,9 @@
       .cajon.color-primario.p-4.d-flex.flex-wrap.col-12.col-md-7(data-aos="fade-left" style="background-color: #FFE8CE")
         p Los riesgos laborales en estas etapas están referidos a las labores de limpieza, desinfección y adecuación de los galpones o corrales, a las actividades diarias de manejo de los animales y a la disposición de residuos generados durante estas actividades. En el área de salud, lo que más se recomienda es el uso de indumentaria adecuada, el cumplimiento de las normas de prevención, así como de los protocolos y tiempos establecidos con las diferentes etapas en el proceso productivo.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_2 1.2 Elementos de protección personal relacionados con el manejo de aves en etapa de levante
+    Separador
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.2 Elementos de protección personal relacionados con el manejo de aves en etapa de levante
 
     .d-flex.flex-wrap
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1

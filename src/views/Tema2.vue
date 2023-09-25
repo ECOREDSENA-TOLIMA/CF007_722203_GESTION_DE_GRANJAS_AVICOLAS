@@ -16,13 +16,12 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 1.
         span <em>Las cinco libertades en bienestar animal</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema2/img-12.svg" data-aos="fade-left")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema2/img-12.svg" data-aos="fade-left" alt="En la figura 1 se muestra las cinco libertades en bienestar animal.")
       figcaption Nota. Tomada de www.agromeat.com
 
     Separador
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_1 2.1 Ley 84 de 1989
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.1 Ley 84 de 1989
 
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
@@ -44,8 +43,9 @@
                   span Descargar
                   i.fas.fa-file-download
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_2 2.2 Ley 1774 de 2016
+    Separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.2 Ley 1774 de 2016
 
     .row.mb-5
       .col-12.col-md-4.mb-3.mb-md-0
@@ -59,7 +59,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h3 Ley 1774 de 2016.
-                p Es la ley por medio de la cual se modifican el Código Civil, Ley 1774 de 2016 el Código Penal, el Código de Procedimiento Penal y se dictan otras disposiciones.
+                p Es la ley por medio de la cual se modifican el Código Civil, la Ley 84 de 1989, el Código Penal, el Código de Procedimiento Penal y se dictan otras disposiciones.
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=68135" target="_blank")
                   span Descargar
@@ -101,9 +101,8 @@
     p(data-aos="fade-right") De igual forma, deben privarse de hacer cualquier tipo de actos violentos o de maltrato sin justificación, tomando activamente la responsabilidad en la prevención y protección de los animales, así como acusar a los maltratadores ante las autoridades pertinentes.
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_3 2.3 Decreto 2113 de 2017
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.3 Decreto 2113 de 2017
 
     .row.mb-5
       .col-12.col-md-2.mb-3.mb-md-0
@@ -123,8 +122,9 @@
                   span Descargar
                   i.fas.fa-file-download
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_4 2.4 Resolución 253 de 2020
+    Separador
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.4 Resolución 253 de 2020
 
     .d-flex.flex-wrap.mb-5
       .col-xl-9.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
@@ -143,8 +143,9 @@
                     i.fas.fa-file-download
       img.mb-4.mb-xl-0.col-xl-3.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-14.png" style="max-width: 320px")
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_5 2.5 Comportamiento animal y parámetros etológicos
+    Separador
+    #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.5 Comportamiento animal y parámetros etológicos
     
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
@@ -154,13 +155,13 @@
         p En varios países del mundo, principalmente en Europa, se está trabajando en la redefinición de los estándares de producción, basados en los criterios del bienestar animal, para atender nuevas normatividades (Estrada, 2011). En la producción avícola, hay prácticamente tres sistemas productivos: sistema de pastoreo o sistema integral autosuficiente, sistema de confinamiento o intensivo y sistema semi-intensivo; cada uno con características propias, las cuales, además de impactar el desempeño, inciden sobre el comportamiento o conductas de las aves.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Sistema de pastoreo o sistema integral autosuficiente
+      h3 Sistema de pastoreo o sistema integral autosuficiente
 
     .col-xl-12.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema2/cuadro_1.svg" data-aos="fade-left")
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Sistema de confinamiento o intensivo
+      h3 Sistema de confinamiento o intensivo
 
     .row.mb-5
       .col-12.col-md-4.mb-3.mb-md-0(data-aos="fade-right")
@@ -170,7 +171,7 @@
         p Este tipo de sistema es el que clásicamente conocemos como productivo, donde las aves se encuentran confinadas en un corral o galpón, el cual está adecuado para el mantenimiento durante el tiempo productivo que estas requieran; se controlan todo el tiempo variables como alimentación, conversión, cantidad de huevos, entre otros, y  elementos de soporte como bebederos, comederos,  nidales, temperatura, humedad y demás, lo cual garantiza mayor eficiencia en el proceso, aunque se requiera de más cantidad de personal en comparación con los otros sistemas. Además, se hace un mayor aprovechamiento del espacio, es decir, más animales por metro cuadrado. Es el sistema más recomendado para producciones muy grandes o a gran escala, ya que la inversión en infraestructura y elementos operativos es bastante grande.
 
     .titulo-segundo.color-primario(data-aos="fade-right")
-      h3#t_1_1 Sistema semi-intensivo
+      h3 Sistema semi-intensivo
 
     .col-xl-12.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema2/cuadro_2.svg" data-aos="fade-left")

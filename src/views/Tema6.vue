@@ -9,7 +9,7 @@
 
     p.mb-5 Son todos los elementos que se requieren para complementar el galpón y hacer los procesos productivos. Entre ellos, se encuentran los siguientes tipos:
 
-    ImagenInfografica.color-acento-botones.mb-5
+    ImagenInfograficaB.custom.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema6/img-1.svg', alt='Texto que describa la imagen')
@@ -22,7 +22,8 @@
         .h5.mb-2 Cortinas
         p El manejo de cortinas permite regular el microclima del galpón, haciendo que suban o bajen las temperaturas, logrando disipar el calor o elevarlo a disposición. También permite controlar la entrada de ráfagas de viento y las concentraciones de gases emitidas dentro del galpón, tales como el amoniaco; pero además permiten el control de las horas luz a la que son expuestas las parvadas en la producción. Generalmente, están hechas de polietileno y se instalan dentro y fuera de los galpones, de manera que se puedan abrir de arriba hacia abajo.
 
-      .tarjeta.color-primario.p-3(x="16.5%" y="53.5%" numero="3")
+      //- .tarjeta.color-primario.p-3(x="16.5%" y="53.5%" numero="3")
+      div(x="16.5%" y="53.5%" numero="3")
         .h5.mb-2 Comederos
         p Proveer los piensos en raciones y tiempos determinados es de gran importancia para que las aves tengan un aporte nutricional que les permita hacer una conversión significativa en la producción. Los comederos son recipientes donde se coloca la comida de los animales, para suministrar de forma periódica. Normalmente, se cuelgan, para que las aves tengan un acceso fácil y rápido a la alimentación, pero se deben tener en cuenta algunos aspectos: la supervisión del nivel de pienso, la ubicación correcta, el acceso al alimento para todas, de manera igualitaria, evitar esparcimiento y evitar que introduzcan cuerpos extraños, y es por esto que existen varios diseños de comederos en el mercado.
         .col-xl-12.mx-auto
@@ -106,7 +107,7 @@
           img(src='@/assets/curso/temas/tema6/img-11.png', alt='Texto que describa la imagen')
       .col-12.col-md-7(data-aos="fade-left")
         p En las producciones avícolas, es imprescindible realizar 1 a 2 pesajes por semana, para saber la evolución del peso de las aves y compararlo con las tablas preestablecidas en la producción pertinente, de acuerdo con la línea. Es por esto que las básculas deben ser revisadas permanentemente, para garantizar exactitud en el peso obtenido por ave en cada muestreo.
-        p Este pesaje es llamado <strong><em>grading,</em></strong> que en general es la labor de pesar la totalidad de las aves para luego segregarlas en grupos, donde las condiciones de peso y desarrollo corporal sean lo más similares posibles. La separación y reubicación por grupos, de acuerdo al peso corporal, permiten establecer una competencia mucho más pareja entre los diferentes tamaños de aves, con lo cual se beneficia de manera significativa la uniformidad de los lotes y por lo tanto el desempeño productivo de los mismos.
+        p Este pesaje es llamado <strong><em>grading,</em></strong> que en general es la labor de pesar la totalidad de las aves para luego segregarlas en grupos, donde las condiciones de peso y desarrollo corporal sean lo más similares posible. La separación y reubicación por grupos, de acuerdo al peso corporal, permiten establecer una competencia mucho más pareja entre los diferentes tamaños de aves, con lo cual se beneficia de manera significativa la uniformidad de los lotes y, por lo tanto, el desempeño productivo de los mismos.
         p El <em>grading</em> es un manejo de gran importancia durante la fase de levante, ya que, una vez realizado, se puede iniciar un trabajo de recuperación de la población de aves que, durante las primeras semanas, presentan cierta tendencia a estar por debajo de los parámetros de peso esperado.
     
     .col-xl-10.mx-auto.mb-5

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Producción de aves, carne, huevo y bienestar animal',
     descripcionCurso:
-      'En la avicultura es de gran importancia conocer sobre las actividades que conciernen a nutrición y sanidad en el proceso productivo, en temas que van desde las líneas genéticas, especificaciones del galpón, elementos dentro del mismo alimentación y conversión, entre otros; esto con el fin de que se comprenda las diversas etapas productivas implícitas.',
+      'En la avicultura, es de gran importancia conocer sobre las actividades que conciernen a nutrición y sanidad en el proceso productivo, sobre temas como líneas genéticas, especificaciones del galpón, elementos dentro del mismo, alimentación y conversión, entre otros; esto con el fin de que se comprendan las diversas etapas productivas implícitas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },
@@ -395,7 +395,7 @@ export default {
       referencia:
         'Ley 84 de 1989. [Congreso de Colombia]. Por la cual se adopta el Estatuto Nacional de Protección de los Animales y se crean unas contravenciones y se regula lo referente a su procedimiento y competencia. Diciembre 27 de 1989',
       link:
-        'https://www.minambiente.gov.co/images/BosquesBiodiversidadyServiciosEcosistemicos/pdf/Normativa/Leyes_/ley_0084_271289.pdf',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=8242',
     },
     {
       referencia:
