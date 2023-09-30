@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="267.31" height="244.51" viewBox="0 0 267.31 244.51">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_340956" data-name="Rectángulo 340956" width="267.31" height="244.51" fill="none" stroke="#8d0a0a" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_976880" data-name="Grupo 976880" transform="translate(-247 1)">
+    <g id="Grupo_976879" data-name="Grupo 976879" transform="translate(247 -1)" clip-path="url(#clip-path)">
+      <line id="Línea_676" data-name="Línea 676" x2="266.489" transform="translate(0 242.636)" fill="none" stroke="#8d0a0a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_677" data-name="Línea 677" y2="214.301" transform="translate(214.302 26.113)" fill="none" stroke="#8d0a0a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_678" data-name="Línea 678" y2="139.212" transform="translate(59.96 102.729)" fill="none" stroke="#8d0a0a" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Trazado_707176" data-name="Trazado 707176" d="M73.3,123.582V42.523H31.111v81.059" transform="translate(85.479 116.833)" fill="none" stroke="#8d0a0a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_675" data-name="Línea 675" y1="116.589" x2="239.84" transform="translate(26.649 1.686)" fill="none" stroke="#ffc403" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
